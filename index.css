@@ -1,0 +1,30 @@
+body{
+    background-color: darkorange;
+    
+}
+h2{
+    color: yellow;
+    border: 6px solid gold ;
+    width: 400px;
+}
+label{
+    font-size: 20px;
+    color: yellow;
+}
+input{
+    border: 3px solid gold;
+}
+button{
+    color: yellow;
+    background-color: black;
+    border:3px solid gold;
+    border-radius: 60px 120px;
+    padding: 8px;
+
+}
+div{
+    border: 3px solid yellow;
+    height: 20px;
+    width: 250px;
+    color: gold;
+}
